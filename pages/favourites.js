@@ -3,7 +3,7 @@ import { useAtom } from "jotai";
 import { Row, Col } from "react-bootstrap";
 import ArtworkCard from "@/components/ArtworkCard";
 
-export default function favourites() {
+export default function Favourites() {
 
   const [favouriteList, setFavouriteList] = useAtom(favouritesAtom)
 
