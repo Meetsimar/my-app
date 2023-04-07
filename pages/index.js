@@ -6,7 +6,7 @@
 *
 * Name: Meetsimar Kaur Student ID: 106510217 Date: 7th April 2023
 *
-*
+* Vercel Link: https://my-app-beta-silk.vercel.app/
 ********************************************************************************/ 
 
 import { Image, Row, Col } from 'react-bootstrap';
