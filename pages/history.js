@@ -49,8 +49,7 @@ export default function History() {
                     variant="danger"
                     size="sm"
                     onClick={(e) => removeHistoryClicked(e, index)}
-                  >
-                    &times;
+                  >&times;
                   </Button>
                 </ListGroup.Item>
               ))}
